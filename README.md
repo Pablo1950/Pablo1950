@@ -1,3 +1,4 @@
+Eu gosto de jogar no celular, não trabalho, no meu tempo livre, eu gosto  de fazer tarefas escolares.
 ## Hi there 👋
 
 <!--
