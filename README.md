@@ -1,7 +1,7 @@
 Eu gosto de jogar no celular, não trabalho, no meu tempo livre, eu gosto  de fazer tarefas escolares.
-## Hi there 👋
 Gosto de prestar atenção nas aulas e tenho facilidade de aprender.
 Tenho 16 anos e estudo no ensino médio, tiro boas notas e busco sempre melhorar.
+## Hi there 👋
 <!--
 **Pablo1950/Pablo1950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
